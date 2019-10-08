@@ -1,0 +1,4 @@
+org\websparrow\report\App.class
+org\websparrow\report\dto\Employee.class
+org\websparrow\report\service\EmployeeReportService.class
+org\websparrow\report\controller\EmpReportController.class
